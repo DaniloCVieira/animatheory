@@ -1,0 +1,7 @@
+install.packages('showtext')
+install.packages('fontemoji')
+install.packages('emo')
+ install.packages("animation")
+
+ library(animation)
+ devtools::install_github("hadley/emo")
